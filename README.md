@@ -1,4 +1,4 @@
-# santorini
+# Santorini
 this is a repo of the CSEN 401 project (The Game). 
 
 ## instructions
@@ -15,11 +15,12 @@ The normal way to win is to move one of your Pieces to stand on level 3
 The other way to win is to box in your opponent so he cannot move  
 
 ## team 
-abdelrahman Mahmoud
-Karim Elshikh
-Ali Hassan
+- abdelrahman Mahmoud
+- Karim Elshikh
+- Ali Hassan
 
-## the game has an AI mode where you can play against an AI player with three diffrent difficulties . the AI algorithm is AlphaBeta pruning with a depth up to 5 levels
+## AI 
+the game has an AI mode where you can play against an AI player with three diffrent difficulties . the AI algorithm is AlphaBeta pruning with a depth up to 5 levels
 
 ## link of executable
 https://www.dropbox.com/s/e2poknuz2plqira/finalGameObfs.jar
